@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Overview
-This project is a console-based Student Management System developed in Java as part of a 45-day Java Developer Bootcamp.
+This project is a console-based Student Management System.
 
 ## Goals
 - Learn Java fundamentals
@@ -23,4 +23,4 @@ This project is a console-based Student Management System developed in Java as p
 - GitHub
 
 ## Status
-🚧 In Development
+ In Development
